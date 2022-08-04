@@ -1,12 +1,16 @@
 # @jayedrashid Twitter Threads: `Node.js`
 
+## Cover
+
+<img src="https://raw.githubusercontent.com/jayedrashid/twitter-threads-of-NodeJs/main/cover-twitter-threads-of-NodeJs.png">
+
 Learn basic [Node.js](https://nodejs.org/en/docs/) with examples.
 
 ---
 
 ## Summary:
 
-|            Topic            |  Programming Language   |                                     Description                                     |                                                                                 Links                                                                                  |
+|            Topic            |  JavaScript runtime env   |                                     Description                                     |                                                                                 Links                                                                                  |
 | :-------------------------: | :---------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |      Built-in Node Modules       |       Node JS        |                     Using `crypto` module for cryptographic functionality                      |                     [Twitter post](https://twitter.com/jayedrashid/status/1543289535210987520?s=20&t=piNLAlLS_nUOsNRv0IKe1Q) and [Code Snippet](https://github.com/jayedrashid/JavaScript-Problem-Solving/blob/main/arrayProblems.js)                      |
 |      Built-in Node Modules           |       Node JS        |                      Using `events` module for EventEmitter class                       |                [Twitter post](https://twitter.com/jayedrashid/status/1542915015576940545?s=20&t=piNLAlLS_nUOsNRv0IKe1Q) and [Code Snippet](https://github.com/jayedrashid/JavaScript-Problem-Solving/blob/main/arrayProblems.js)              
@@ -49,4 +53,4 @@ Fork or clone this repository.
 
 Feel free to Contact me on [Twitter](https://mobile.twitter.com/jayedrashid), send an email to jayed@jayedrashid.com, or create a pull request on this repo.
 
----
+
