@@ -35,19 +35,20 @@ Fork or clone this repository.
 
 ## Contributing
 
-1. Fork it
-2. Create your feature branch with specs (`git checkout -b node-practice`).
-3. Commit your changes (`git commit -m 'Added changes to node-practice'`).
-4. Push to the branch (`git push origin node-practice`).
-5. Create your new pull request.
+1. Fork it!
+2. Create your branch: git checkout -b new-branch
+3. Make your changes
+4. Commit your changes: git commit -m 'Add some feature'
+5. Push to the branch: git push origin new-branch
+6. Submit a pull request
+
+or submit an issue - any helpful suggestions are welcomed. 😜
 
 ---
 
 ## Contributors
 
-<a https://github.com/jayedrashid">
-  <img https://avatars.githubusercontent.com/u/68325519?s=120&v=4" />
-</a>
+- Jayed Rashid ([Jayed Rashid](https://github.com/jayedrashid))
 
 Contributions are always welcome!
 ---
