@@ -45,8 +45,11 @@ Fork or clone this repository.
 
 ## Contributors
 
-- Jayed Rashid ([Jayed Rashid](https://github.com/jayedrashid))
+<a https://github.com/jayedrashid">
+  <img https://avatars.githubusercontent.com/u/68325519?s=120&v=4" />
+</a>
 
+Contributions are always welcome!
 ---
 
 # **Ask `Question` or give `Suggestion`**
