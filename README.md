@@ -29,7 +29,7 @@ Learn basic [Node.js](https://nodejs.org/en/docs/) with examples.
 
 ## Getting Started
 
-Fork or clone this repository.
+Yes, you can fork this repo. Please give me proper credit by linking back to [Jayed Rashid](https://jayedrashid.com). Thanks!
 
 ---
 
