@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/jayedrashid/twitter-threads-of-NodeJs/main/cover-twitter-threads-of-NodeJs.png">
 
-Learn basic [Node.js](https://nodejs.org/en/docs/) with examples.
+Basic [Node.js](https://nodejs.org/en/docs/) functionality with examples.
 
 ---
 
