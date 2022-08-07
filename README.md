@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/jayedrashid/twitter-threads-of-NodeJs/main/cover-twitter-threads-of-NodeJs.png">
 
-Basic [Node.js](https://nodejs.org/en/docs/) functionality with examples.
+Basic [Node.js](https://nodejs.org/dist/latest-v18.x/docs/api/) functionality with examples.
 
 ---
 
