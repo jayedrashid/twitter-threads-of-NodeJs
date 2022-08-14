@@ -48,7 +48,11 @@ or submit an issue - any helpful suggestions are welcomed. 😜
 
 ## Contributors
 
-- Jayed Rashid ([Jayed Rashid](https://github.com/jayedrashid))
+<table>
+  <tr>
+    <td align="center"><a href="https://jayedrashid.com/"><img src="https://avatars.githubusercontent.com/u/68325519?s=400&u=c3380d6ce56295f87d4f877de9ca04b7adf28d55&v=4" width="100px;" alt=""/><br /><sub><b>Jayed Rashid</b></sub></a><br />   
+  </tr>
+</table>
 
 Contributions are always welcome!
 ---
